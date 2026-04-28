@@ -1,8 +1,8 @@
 # 🐱 Guizo
 
-<p align="center">
+<!--<p align="center">
   <img src="./cat.gif" width="150">
-</p>
+</p>-->
 
 <p align="center">
   Olá! Me chamo <b>Guilherme Rocha</b> 👋<br>
