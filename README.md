@@ -7,7 +7,6 @@
 <p align="center">
   Olá! Me chamo <b>Guilherme Rocha</b> 👋<br>
   Estudante de Ciência da Computação, 5º semestre, no <b>Centro Universitário FEI</b><br><br>
-  💡 Atualmente focado em <b>Sistemas Embarcados</b> e <b>Programação em Baixo Nível</b><br>
 </p>
 
 ---
