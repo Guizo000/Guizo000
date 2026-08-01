@@ -6,7 +6,7 @@
 
 <p align="center">
   Olá! Me chamo <b>Guilherme Rocha</b> 👋<br>
-  Estudante de Ciência da Computação, 5º semestre, no <b>Centro Universitário FEI</b><br><br>
+  Estudante de Ciência da Computação, 6º semestre, no <b>Centro Universitário FEI</b><br><br>
 </p>
 
 ---
@@ -26,22 +26,28 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  
-  
-  <br>
-   
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&color=512BD4" alt="C#" />
 
+  <br/>
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+
+  <br/>
+
+  <!-- Databases & Storage -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+  <br/>
+
+  <!-- Version Control -->
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 ---
 
 <!--## 🌟 Projetos em Destaque
