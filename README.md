@@ -25,30 +25,17 @@
 ---
 
 ## 💻 Tech Stack
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&color=512BD4" alt="C#" />
-
-  <br/>
-
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-
-  <br/>
-
-  <!-- Databases & Storage -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-  <br/>
-
-  <!-- Version Control -->
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs" alt="Languages" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,react" alt="Frameworks" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" alt="Tools" />
+  </a>
+</div>
 
 <!--## 🌟 Projetos em Destaque
 
