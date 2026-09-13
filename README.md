@@ -25,17 +25,10 @@
 ---
 
 ## 💻 Tech Stack
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs" alt="Languages" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,react" alt="Frameworks" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" alt="Tools" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,react,git,github" alt="Languages" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="Microsoft SQL Server" />
+</p>
 
 <!--## 🌟 Projetos em Destaque
 
