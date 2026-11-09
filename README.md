@@ -26,14 +26,11 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,react,git,github" alt="Languages" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="Microsoft SQL Server" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet&perline=4" alt="Linguagens" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,git,github&perline=4" alt="Ferramentas" /><br/>
+  <img src="https://skillicons.dev/icons?i=py,postgres" alt="Dados" />
 </p>
 
-<!--## 🌟 Projetos em Destaque
 
-* [Automatização Estufa](/guizo000/FEI-Aulas-IOT/tree/main/Aula%2008%20-%20Projeto%20Irrigacao)  
-Sistema de automação de estufa utilizando Arduino, com monitoramento de temperatura e umidade por sensores.
-Realiza controle automático de ventilação, irrigação e alerta conforme as condições do ambiente.
-Projeto focado em integração de hardware e lógica de controle em sistemas embarcados. -->
+
 
