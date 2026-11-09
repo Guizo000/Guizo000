@@ -26,9 +26,10 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet&perline=4" alt="Linguagens" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,git,github&perline=4" alt="Ferramentas" /><br/>
-  <img src="https://skillicons.dev/icons?i=py,postgres" alt="Dados" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react&perline=4" alt="Web" /><br/>
+  <img src="https://skillicons.dev/icons?i=py,postgres" alt="Ferramentas" /><br/> 
+  <img src="https://skillicons.dev/icons?i=c,cpp&perline=4" alt="Software" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github&perline=4" alt="Dados" />
 </p>
 
 
